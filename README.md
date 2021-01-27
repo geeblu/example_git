@@ -1,2 +1,2 @@
 # example_git
-demo GitHub repository for etc
+demo GitHub repository for jtc
